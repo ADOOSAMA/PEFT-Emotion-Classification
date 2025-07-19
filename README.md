@@ -22,8 +22,7 @@ project7/
 ├── requirements.txt          # Dependencies
 ├── results/                  # Experimental results (auto-generated)
 ├── logs/                     # Log files (auto-generated)
-└── models/                   # Saved models (auto-generated)
-```
+
 
 ## Quick Start
 
